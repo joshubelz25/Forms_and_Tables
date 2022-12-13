@@ -1,0 +1,16 @@
+table{
+    border-spacing: 0px;
+    margin-bottom: 5%;
+    background-color: green;
+    background-color: yellow;
+}
+th{
+    border: solid 1px black;
+    margin: 0px;
+    width: 300px;
+}
+td{
+    border: solid 1px black;
+    margin: 0px;
+    
+}
